@@ -1,4 +1,4 @@
-name: 'wakatime-sync'
+name: 'wakatime-sync-surge'
 description: 'Back up your wakatime sync to your gist'
 branding:
   icon: 'clipboard'
